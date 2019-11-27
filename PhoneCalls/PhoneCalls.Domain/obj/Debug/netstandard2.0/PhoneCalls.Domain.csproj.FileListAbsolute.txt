@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\PhoneCalls\PhoneCalls.Domain\bin\Debug\netstandard2.0\PhoneCalls.Domain.deps.json
+C:\Users\User\source\repos\PhoneCalls\PhoneCalls.Domain\bin\Debug\netstandard2.0\PhoneCalls.Domain.dll
+C:\Users\User\source\repos\PhoneCalls\PhoneCalls.Domain\bin\Debug\netstandard2.0\PhoneCalls.Domain.pdb
+C:\Users\User\source\repos\PhoneCalls\PhoneCalls.Domain\obj\Debug\netstandard2.0\PhoneCalls.Domain.csprojAssemblyReference.cache
+C:\Users\User\source\repos\PhoneCalls\PhoneCalls.Domain\obj\Debug\netstandard2.0\PhoneCalls.Domain.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\PhoneCalls\PhoneCalls.Domain\obj\Debug\netstandard2.0\PhoneCalls.Domain.AssemblyInfo.cs
+C:\Users\User\source\repos\PhoneCalls\PhoneCalls.Domain\obj\Debug\netstandard2.0\PhoneCalls.Domain.dll
+C:\Users\User\source\repos\PhoneCalls\PhoneCalls.Domain\obj\Debug\netstandard2.0\PhoneCalls.Domain.pdb
+C:\Users\User\Desktop\PhoneCalls\PhoneCalls.Domain\bin\Debug\netstandard2.0\PhoneCalls.Domain.deps.json
+C:\Users\User\Desktop\PhoneCalls\PhoneCalls.Domain\bin\Debug\netstandard2.0\PhoneCalls.Domain.dll
+C:\Users\User\Desktop\PhoneCalls\PhoneCalls.Domain\bin\Debug\netstandard2.0\PhoneCalls.Domain.pdb
+C:\Users\User\Desktop\PhoneCalls\PhoneCalls.Domain\obj\Debug\netstandard2.0\PhoneCalls.Domain.csprojAssemblyReference.cache
+C:\Users\User\Desktop\PhoneCalls\PhoneCalls.Domain\obj\Debug\netstandard2.0\PhoneCalls.Domain.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\PhoneCalls\PhoneCalls.Domain\obj\Debug\netstandard2.0\PhoneCalls.Domain.AssemblyInfo.cs
+C:\Users\User\Desktop\PhoneCalls\PhoneCalls.Domain\obj\Debug\netstandard2.0\PhoneCalls.Domain.dll
+C:\Users\User\Desktop\PhoneCalls\PhoneCalls.Domain\obj\Debug\netstandard2.0\PhoneCalls.Domain.pdb
